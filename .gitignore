@@ -1,0 +1,26 @@
+# Node modules
+/node_modules
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Dependency directories
+/pnpm-debug.log*
+/yarn-error.log*
+/.pnp/
+.pnp.js
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS generated files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,16 @@
+POST http://localhost:3000/incoming 
+content-type: application/json
+
+{
+    "id": "10",
+    "userId": "5"
+}
+
+### get job by idmodule.exports = worker;
+GET http://localhost:3000/outcoming/3
+content-type: application/json
+
+
+### get all jobs
+GET http://localhost:3000/outcoming
+Content-Type: application/json
