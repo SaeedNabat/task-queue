@@ -26,6 +26,7 @@ docker-compose up
 
 To run tests, use the following command
 ```
+ docker-compose up -d
  docker-compose exec app npm test
 ```
 
