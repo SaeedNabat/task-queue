@@ -1,4 +1,4 @@
-# Project Name
+# Task queue
 
 Brief description or introduction to project.
 
